@@ -18,7 +18,7 @@ import java.util.concurrent.Future;
  * Created by olegshan on 29.08.2016.
  */
 @RestController
-public class GreetingController {
+public class GreetingController extends BaseController {
 
     @Autowired
     GreetingService greetingService;
