@@ -1,0 +1,10 @@
+com\olegshan\batch\GreetingBatchBean.class
+com\olegshan\service\EmailServiceBean.class
+com\olegshan\util\AsyncResponse.class
+com\olegshan\service\GreetingService.class
+com\olegshan\service\GreetingServiceBean.class
+com\olegshan\service\EmailService.class
+com\olegshan\Application.class
+com\olegshan\model\Greeting.class
+com\olegshan\repository\GreetingRepository.class
+com\olegshan\web\api\GreetingController.class
